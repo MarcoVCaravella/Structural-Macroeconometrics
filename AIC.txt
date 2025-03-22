@@ -1,0 +1,16 @@
+Sistema VAR, ordine massimo ritardi 8
+
+Gli asterischi indicano i valori migliori (ossia minimizzati)
+dei rispettivi criteri di informazione, AIC = criterio di Akaike,
+BIC = criterio bayesiano di Schwartz e HQC = criterio di Hannan-Quinn.
+
+ritardi     logver    p(LR)       AIC          BIC          HQC
+
+   1    1915,19118           -17,247193   -16,969532   -17,135066 
+   2    1939,90688  0,00000  -17,390063   -16,973572*  -17,221873*
+   3    1947,37448  0,09273  -17,376132   -16,820811   -17,151878 
+   4    1959,80690  0,00312  -17,407335*  -16,713184   -17,127019 
+   5    1963,70481  0,55485  -17,360953   -16,527971   -17,024573 
+   6    1966,18675  0,83744  -17,301698   -16,329886   -16,909255 
+   7    1975,40653  0,03040  -17,303696   -16,193054   -16,855189 
+   8    1985,93730  0,01238  -17,317612   -16,068140   -16,813042 
